@@ -64,9 +64,11 @@ $ npm run dev
 
 ## ページの構成
 
-| ページ             | パス | ファイル                                                                                 |
-| ------------------ | ---- | ---------------------------------------------------------------------------------------- |
-| 問い合わせフォーム | /    | [ソース](https://github.com/Newt-Inc/newt-starter-nextjs-contact/blob/main/app/page.tsx) |
+| ページ             | パス    | ファイル                                                                                        |
+| ------------------ | ------- | ----------------------------------------------------------------------------------------------- |
+| 問い合わせフォーム | /       | [ソース](https://github.com/Newt-Inc/newt-starter-nextjs-contact/blob/main/app/page.tsx)        |
+| 送信成功           | /thanks | [ソース](https://github.com/Newt-Inc/newt-starter-nextjs-contact/blob/main/app/thanks/page.tsx) |
+| 送信失敗           | /error  | [ソース](https://github.com/Newt-Inc/newt-starter-nextjs-contact/blob/main/app/error/page.tsx)  |
 
 ## License
 
