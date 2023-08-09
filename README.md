@@ -17,6 +17,10 @@ Newt's starter
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNewt-Inc%2Fnewt-starter-nextjs-contact)
 
+| 問い合わせフォーム                                                                                                                | 送信成功                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![starter-contact1](https://github.com/Newt-Inc/newt-starter-nextjs-contact/assets/14175298/f4b31ee4-1baa-467f-968a-aa97d0140607) | ![starter-contact2](https://github.com/Newt-Inc/newt-starter-nextjs-contact/assets/14175298/8efdfbda-d857-4164-b0ef-f0ae899b2393) |
+
 ## 開発をはじめる
 
 ### Step1: Newt スペースをセットアップ
